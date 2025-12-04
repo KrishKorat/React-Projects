@@ -8,13 +8,14 @@
   gap: 20px;
 }
 
-.wrapper button {
+.multi-btn {
     padding: 10px 20px;
-    background: #614101;
+    background: #9f77b8;
     color: #fff;
     font-weight: bold;
     font-size: 20px;
     cursor: pointer;
+    border: none;
 }
 
 .accordian {
@@ -22,7 +23,7 @@
 }
 
 .item {
-  background: #614101;
+  background: #9f77b8;
   margin-bottom: 10px;
   padding: 10px 20px;
 }
